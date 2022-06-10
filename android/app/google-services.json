@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "61524214177",
+    "project_id": "heario-b8d4e",
+    "storage_bucket": "heario-b8d4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61524214177:android:ec41ce7ab0f8fcb90a8be0",
+        "android_client_info": {
+          "package_name": "com.heario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61524214177-dth1ll369evdnjv2gjfs99d6h1vb3q81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heario",
+            "certificate_hash": "2bc0ed21ce19d984ae74b9625a40dc171e4ee75f"
+          }
+        },
+        {
+          "client_id": "61524214177-41bad84os9p4pa8jm868ir4i5vfhqqm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNd5hwkfJafuviw4Hl2myiUyh_8GZvEaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61524214177-41bad84os9p4pa8jm868ir4i5vfhqqm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
