@@ -18,7 +18,7 @@ export default function Register({ navigation }) {
             .createUserWithEmailAndPassword(email, password)
             .then((res) => {
                 console.log('User account created & signed in!', res);
-                navigation.navigate('Chat')
+                navigation.navigate('Home')
             })
             .catch(error => {
                 if (error.code === 'auth/email-already-in-use')

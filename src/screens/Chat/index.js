@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View } from 'react-native'
+import { StyleSheet, Text, TouchableOpacity, View } from 'react-native'
 import React, { useState, useCallback, useEffect } from 'react'
 import { GiftedChat } from 'react-native-gifted-chat'
 
@@ -30,6 +30,7 @@ export default function ChatScreen({ navigation }) {
             user={{
                 _id: 1,
             }}
+
         />
     )
 }

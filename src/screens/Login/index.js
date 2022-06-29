@@ -71,7 +71,7 @@ export default function Login({ navigation }) {
                     <Gap height={ms(55)} />
                     <Button
                         title={'Login'}
-                        onPressButton={() => navigation.navigate('Register')}
+                        onPressButton={() => navigation.navigate('Home')}
                     />
                     <Gap height={ms(40)} />
                     <View alignItems={'center'}>
